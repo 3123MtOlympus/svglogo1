@@ -1,0 +1,8 @@
+<html>
+    <body>
+    <svg height="300" width="200">
+  <polygon points="100,10 150,190 80,210" style="fill:${this.color} />
+  <text x="100" y="150" fill="${this.textcolor}">SVG</text><text>
+</svg>
+</body>
+</html>

@@ -1,2 +1,2 @@
-# svglogo1
-svglogo
+# SVGlogo
+Challenge 10 (SVG Logo)

@@ -1,0 +1,9 @@
+<html>
+        <body>
+        <svg width="200" height="300">
+  <rect width="200" height="200" style="fill:green;stroke-width:3;stroke:rgb(0,0,0)" />
+  <text x="87" y="100" fill="white">SVG</text>
+</svg>
+
+</body>
+</html>
